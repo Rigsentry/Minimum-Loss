@@ -67,4 +67,4 @@ Lauren buys the house in year 1 at **price[0]=5** and sells it in year **3** at 
 Lauren buys the house in year 2 at **price[1]=7** and sells it in year 5 at **price[4]=5** for a minimal loss of **7 - 5 = 2**.
 
 ### Note
-This exercise is about to calculate the minimal loos, not the greatest earnings.
+This exercise is about to calculate the minimal loss, not the greatest earnings.
